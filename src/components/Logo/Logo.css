@@ -1,0 +1,15 @@
+.logocss{
+    background: linear-gradient(89deg, #ff5edf 0%, #04c8de 100%);
+}
+
+.logoimagecont{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.logoimage{
+    margin: auto;
+    height: 60%;
+    width: 60%;
+}
